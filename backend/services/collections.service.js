@@ -109,7 +109,6 @@ const getMovieAndActor = async () => {
     { name: movie.results[0].original_title },
     { photo: pathPoster },
   ];
-  console.log(actors[0]);
   const numberRandom = Math.floor(Math.random() * 4);
   return [moviePlay, actors[numberRandom]];
 };
