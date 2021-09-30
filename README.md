@@ -1,7 +1,7 @@
 # DamovieQuiz
 Da movie Quiz
 
-#BACKEND
+# BACKEND
 ```
 $ cd backend
 $ npm install
@@ -11,7 +11,7 @@ $ npm start
 Don't forget the .env file ! 
 
 
-#FRONTEND
+# FRONTEND
 ```
 $ cd frontend
 $ npm install
